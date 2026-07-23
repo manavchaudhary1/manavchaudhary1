@@ -11,7 +11,7 @@
 
 ## 👋 About me
 
-I'm a Software Dev & CSE Grad from India, who enjoys building backend systems, command-line tools, and practical automation. I like taking an idea from experiment to working software—then making it easier to run with clean tooling and containers.
+I'm a Computer Science student from Agra, India, who enjoys building backend systems, command-line tools, and practical automation. I like taking an idea from experiment to working software—then making it easier to run with clean tooling and containers.
 
 - 🔭 I build with **Java, Spring Boot, TypeScript, and Docker**
 - 🧰 I enjoy backend engineering, APIs, CLI tools, and automation
@@ -75,10 +75,15 @@ Explore the rest of my experiments, utilities, and learning projects.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=manavchaudhary1&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=22D3EE&text_color=CBD5E1&bg_color=0F172A&rank_icon=github" alt="Manav's GitHub stats">
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=manavchaudhary1&hide_border=true&background=0F172A&stroke=334155&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8&sideLabels=CBD5E1&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" alt="Manav's GitHub streak">
+<a href="https://github.com/manavchaudhary1?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-9-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="9 public repositories"></a>
+<a href="https://github.com/manavchaudhary1?tab=stars"><img src="https://img.shields.io/badge/Stars-77-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="77 GitHub stars"></a>
+<a href="https://github.com/manavchaudhary1?tab=followers"><img src="https://img.shields.io/github/followers/manavchaudhary1?label=Followers&style=for-the-badge&logo=github&color=0EA5E9" alt="GitHub followers"></a>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manavchaudhary1&layout=compact&hide_border=true&title_color=38BDF8&text_color=CBD5E1&bg_color=0F172A&langs_count=8" alt="Most used languages">
+<br><br>
+
+<a href="https://github.com/manavchaudhary1/TrendyTraverse"><img src="https://img.shields.io/github/stars/manavchaudhary1/TrendyTraverse?style=for-the-badge&logo=github&label=TrendyTraverse" alt="TrendyTraverse stars"></a>
+<a href="https://github.com/manavchaudhary1/TeleFetch"><img src="https://img.shields.io/github/stars/manavchaudhary1/TeleFetch?style=for-the-badge&logo=github&label=TeleFetch" alt="TeleFetch stars"></a>
+<a href="https://github.com/manavchaudhary1/CLI-FFMPEG"><img src="https://img.shields.io/github/stars/manavchaudhary1/CLI-FFMPEG?style=for-the-badge&logo=github&label=CLI--FFMPEG" alt="CLI-FFMPEG stars"></a>
 
 </div>
 
@@ -89,7 +94,6 @@ If you like backend development, useful developer tools, or open-source experime
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-manavchaudhary1-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manavchaudhary1)
+![Discord](https://img.shields.io/badge/Discord-mac__o-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,45:2563EB,100:06B6D4)
-
-</div>
+![Footer](https://c
