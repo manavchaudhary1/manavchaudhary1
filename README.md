@@ -11,7 +11,7 @@
 
 ## 👋 About me
 
-I'm a Computer Science student from Agra, India, who enjoys building backend systems, command-line tools, and practical automation. I like taking an idea from experiment to working software—then making it easier to run with clean tooling and containers.
+I'm a Software Dev & CSE Grad from India, who enjoys building backend systems, command-line tools, and practical automation. I like taking an idea from experiment to working software—then making it easier to run with clean tooling and containers.
 
 - 🔭 I build with **Java, Spring Boot, TypeScript, and Docker**
 - 🧰 I enjoy backend engineering, APIs, CLI tools, and automation
