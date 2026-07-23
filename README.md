@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+reliable+backend+applications;Exploring+Spring+Boot%2C+Docker+%26+developer+tools;Turning+ideas+into+useful+software)](https://git.io/typing-svg)
 
-<a href="https://github.com/manavchaudhary1?tab=followers"><img src="https://img.shields.io/github/followers/manavchaudhary1?label=Followers&style=for-the-badge&logo=github&color=2563EB" alt="GitHub followers"></a>
+<a href="https://github.com/manavchaudhary1?tab=followers"><img src="https://img.shields.io/badge/GitHub-Follow-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Follow Manav on GitHub"></a>
 <a href="https://github.com/manavchaudhary1"><img src="https://komarev.com/ghpvc/?username=manavchaudhary1&style=for-the-badge&color=06B6D4" alt="Profile views"></a>
 
 </div>
@@ -77,13 +77,13 @@ Explore the rest of my experiments, utilities, and learning projects.
 
 <a href="https://github.com/manavchaudhary1?tab=repositories"><img src="https://img.shields.io/badge/Public%20Repositories-9-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="9 public repositories"></a>
 <a href="https://github.com/manavchaudhary1?tab=stars"><img src="https://img.shields.io/badge/Stars-77-06B6D4?style=for-the-badge&logo=github&logoColor=white" alt="77 GitHub stars"></a>
-<a href="https://github.com/manavchaudhary1?tab=followers"><img src="https://img.shields.io/github/followers/manavchaudhary1?label=Followers&style=for-the-badge&logo=github&color=0EA5E9" alt="GitHub followers"></a>
+<a href="https://github.com/manavchaudhary1?tab=followers"><img src="https://img.shields.io/badge/Open%20to-Collaboration-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Open to collaboration"></a>
 
 <br><br>
 
-<a href="https://github.com/manavchaudhary1/TrendyTraverse"><img src="https://img.shields.io/github/stars/manavchaudhary1/TrendyTraverse?style=for-the-badge&logo=github&label=TrendyTraverse" alt="TrendyTraverse stars"></a>
-<a href="https://github.com/manavchaudhary1/TeleFetch"><img src="https://img.shields.io/github/stars/manavchaudhary1/TeleFetch?style=for-the-badge&logo=github&label=TeleFetch" alt="TeleFetch stars"></a>
-<a href="https://github.com/manavchaudhary1/CLI-FFMPEG"><img src="https://img.shields.io/github/stars/manavchaudhary1/CLI-FFMPEG?style=for-the-badge&logo=github&label=CLI--FFMPEG" alt="CLI-FFMPEG stars"></a>
+<a href="https://github.com/manavchaudhary1/TrendyTraverse"><img src="https://img.shields.io/badge/TrendyTraverse-View%20Project-2563EB?style=for-the-badge&logo=springboot&logoColor=white" alt="View TrendyTraverse"></a>
+<a href="https://github.com/manavchaudhary1/TeleFetch"><img src="https://img.shields.io/badge/TeleFetch-View%20Project-06B6D4?style=for-the-badge&logo=telegram&logoColor=white" alt="View TeleFetch"></a>
+<a href="https://github.com/manavchaudhary1/CLI-FFMPEG"><img src="https://img.shields.io/badge/CLI--FFMPEG-View%20Project-0EA5E9?style=for-the-badge&logo=ffmpeg&logoColor=white" alt="View CLI-FFMPEG"></a>
 
 </div>
 
@@ -96,4 +96,6 @@ If you like backend development, useful developer tools, or open-source experime
 [![GitHub](https://img.shields.io/badge/GitHub-manavchaudhary1-0F172A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manavchaudhary1)
 ![Discord](https://img.shields.io/badge/Discord-mac__o-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 
-![Footer](https://c
+![Footer](https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:0F172A,45:2563EB,100:06B6D4)
+
+</div>
